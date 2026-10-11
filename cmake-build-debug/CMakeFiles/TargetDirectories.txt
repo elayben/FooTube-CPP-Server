@@ -1,3 +1,0 @@
-/home/elayben/CLionProjects/CPP_Server/cmake-build-debug/CMakeFiles/CPP_Server.dir
-/home/elayben/CLionProjects/CPP_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/elayben/CLionProjects/CPP_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
