@@ -2,3 +2,7 @@ cmake-build-*/
 .idea/
 build/
 .DS_Store
+
+# Compiled binaries
+/Client
+/Server
